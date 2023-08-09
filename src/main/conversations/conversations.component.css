@@ -4,7 +4,6 @@
   justify-content: flex-start;
   margin-top: 0.5rem;
   height: 43.6rem;
-  background-color: red;
 }
 .con-header {
   display: flex;
@@ -13,4 +12,20 @@
   align-items: center;
   height: 3.5rem;
   background-color: green;
+}
+.msg-window {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(43rem - 7rem);
+  background-color: blueviolet;
+  width: 100%;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 3.5rem;
+  width: 100%;
+  background-color: rgb(060, 0, 255);
 }
