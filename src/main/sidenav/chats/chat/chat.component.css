@@ -9,7 +9,7 @@
   border-bottom: 2px solid #ccc;
 }
 .container:hover {
-  
+  background-color: whitesmoke;
   cursor: pointer;
 }
 .avatar {
